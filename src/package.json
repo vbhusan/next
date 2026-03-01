@@ -23,7 +23,7 @@
   "devDependencies": {
     "7zip": "0.0.6",
     "@tryghost/admin-api": "^1.0.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.29.3",
     "browser-sync-webpack-plugin": "^2.0.1",
     "dotenv": "^8.2.0",
     "ghost-cli": "^1.12.0",
